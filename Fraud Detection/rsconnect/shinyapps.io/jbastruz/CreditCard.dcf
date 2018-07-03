@@ -1,0 +1,13 @@
+name: CreditCard
+title: CreditCard
+username:
+account: jbastruz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 315900
+bundleId: 1311646
+url: https://jbastruz.shinyapps.io/CreditCard/
+when: 1523364902.21573
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Autoencoder Use.R|creditcard.csv|Extend Serv.R|on.png|server1.R|server2.R|Soluce CreditCard.R|ui1.R|model_nn/model_nn|model_nn_2/DeepLearning_model_R_1522827383346_125|model_nn_dim/DeepLearning_model_R_1522748109476_13

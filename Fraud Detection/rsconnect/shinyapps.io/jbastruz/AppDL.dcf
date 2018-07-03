@@ -1,0 +1,13 @@
+name: AppDL
+title: AppDL
+username:
+account: jbastruz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 312539
+bundleId: 1303491
+url: https://jbastruz.shinyapps.io/AppDL/
+when: 1522917869.63185
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Autoencoder Use.R|creditcard.csv|Extend Serv.R|Iris.csv|on.png|server1.R|ui1.R|model_nn/model_nn|model_nn_dim/DeepLearning_model_R_1522748109476_13
