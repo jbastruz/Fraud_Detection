@@ -1,2 +1,8 @@
 # Fraud_Detection
 A program based on semi-supervised learning to detect CerditCard Fraud Detection on Very Unbalanced database
+
+Notice this projet need to learn on a database to be used. It was design especialy for Very unbalanced Database like Fraud detection. The training part take place in the file "Training.R". This part will create, train and save all the machine Learning model.
+
+To use the trained machine learning, you just have to run the file "server.R". This file will execute a R Shiny program, the purpose was to meke it as easy as possible to use. You just have to download your file (.csv or .txt) and run. the program will automatically separate the detected frauds from the rest.
+
+(PS: Mind to defind correctly the name of each model)
