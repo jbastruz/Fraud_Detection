@@ -9,7 +9,8 @@ library(plotly)
 fluidPage(theme = shinytheme("spacelab"),
   
   headerPanel(
-    title = "Fraud Detection"
+    list(HTML('<img src="Addactis2.png" width = "45px" height="45px"/>'), "CreditCard Fraud Detection"),
+    windowTitle="Fraud Detection"
   ), 
   
   sidebarPanel(
@@ -35,7 +36,8 @@ fluidPage(theme = shinytheme("spacelab"),
   mainPanel(
 
     navbarPage(
-
+      
+      imageOutput("image1"),
       tabPanel('DataSet',
                
                uiOutput("ui")
